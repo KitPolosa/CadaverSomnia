@@ -1,0 +1,420 @@
+{
+  "items": [
+    {
+      "key": "CharText",
+      "value": "Characteristics"
+    },
+    {
+      "key": "DamText",
+      "value": "Damage"
+    },
+    {
+      "key": "HealthText",
+      "value": "Health"
+    },
+    {
+      "key": "SkillPointsOne",
+      "value": "Skill points:"
+    },
+    {
+      "key": "Continue",
+      "value": "Continue"
+    },
+    {
+      "key": "Exit",
+      "value": "Exit"
+    },
+    {
+      "key": "DeathMessage",
+      "value": "DEATH HAS CAUGHT YOU AGAIN"
+    },
+    {
+      "key": "ReturnToMenuDeath",
+      "value": "Menu"
+    },
+    {
+      "key": "LevelCountDeath",
+      "value": "Levels completed:"
+    },
+    {
+      "key": "EnemyCountDeath",
+      "value": "Enemies killed:"
+    },
+    {
+      "key": "TimerCountDeath",
+      "value": "Time(m:s):"
+    },
+    {
+      "key": "CongMessage",
+      "value": "CONGRATULATIONS, YOU WERE ABLE TO FIND A WAY OUT!"
+    },
+    {
+      "key": "ReturnToMenuCong",
+      "value": "Menu"
+    },
+    {
+      "key": "LevelCountCong",
+      "value": "Levels completed:"
+    },
+    {
+      "key": "EnemyCountCong",
+      "value": "Enemies killed:"
+    },
+    {
+      "key": "TimerCountCong",
+      "value": "Time(m:s):"
+    },
+    {
+      "key": "SkillsText",
+      "value": "Skills"
+    },
+    {
+      "key": "SkillsPointsTwo",
+      "value": "Skill points:"
+    },
+    {
+      "key": "CAName",
+      "value": "Circle attack"
+    },
+    {
+      "key": "CADescription",
+      "value": "Deals damage to all nearby enemies"
+    },
+    {
+      "key": "CABuy",
+      "value": "Buy"
+    },
+    {
+      "key": "CAEquip",
+      "value": "Equip"
+    },
+    {
+      "key": "CAConfirm",
+      "value": "Set to cell:"
+    },
+    {
+      "key": "SAName",
+      "value": "Sting"
+    },
+    {
+      "key": "SADescription",
+      "value": "A dash occurs in the indicated direction, causing damage to all encountered enemies"
+    },
+    {
+      "key": "SABuy",
+      "value": "Buy"
+    },
+    {
+      "key": "SAEquip",
+      "value": "Equip"
+    },
+    {
+      "key": "SAConfirm",
+      "value": "Set to cell:"
+    },
+    {
+      "key": "CRAName",
+      "value": "Into the crowd"
+    },
+    {
+      "key": "CRADescription",
+      "value": "Jump in the indicated direction and deal increased damage to enemies"
+    },
+    {
+      "key": "CRABuy",
+      "value": "Buy"
+    },
+    {
+      "key": "CRAEquip",
+      "value": "Equip"
+    },
+    {
+      "key": "CRAConfirm",
+      "value": "Set to cell:"
+    },
+    {
+      "key": "SkillsTextTwo",
+      "value": "Skills"
+    },
+    {
+      "key": "SkillPointsThree",
+      "value": "Skill points:"
+    },
+    {
+      "key": "TAName",
+      "value": "Triple shot"
+    },
+    {
+      "key": "TADescription",
+      "value": "Fires three arrows in different directions"
+    },
+    {
+      "key": "TABuy",
+      "value": "Buy"
+    },
+    {
+      "key": "TAEquip",
+      "value": "Equip"
+    },
+    {
+      "key": "TAConfirm",
+      "value": "Set to cell:"
+    },
+    {
+      "key": "TBName",
+      "value": "Through boom"
+    },
+    {
+      "key": "TBDescription",
+      "value": "The arrow flies right through opponents"
+    },
+    {
+      "key": "TBBuy",
+      "value": "Buy"
+    },
+    {
+      "key": "TBEquip",
+      "value": "Equip"
+    },
+    {
+      "key": "TBConfirm",
+      "value": "Set to cell:"
+    },
+    {
+      "key": "EAName",
+      "value": "Explosive arrow"
+    },
+    {
+      "key": "EADescription",
+      "value": "Explodes on contact with an enemy"
+    },
+    {
+      "key": "EABuy",
+      "value": "Buy"
+    },
+    {
+      "key": "EAEquip",
+      "value": "Equip"
+    },
+    {
+      "key": "EAConfirm",
+      "value": "Set to cell:"
+    },
+    {
+      "key": "TCOnePanelOne",
+      "value": "Greetings my friend. I do not know who will read this message, it is unlikely that anyone alive will wander into this godforsaken place. Or perhaps you are as awakened as I am. I am an ordinary skeleton, I remember that I was once a living person, out there, but I do not remember anything about that time. Now all I care about is why I woke up and how to get out of here? In search of a way out of this crypt, the same dead people like me always try to stop me. I do not know why they wont let me get out. But after they kill me, every time I return to the same place where I woke up the first time, maybe they are the ones who carry me back."
+    },
+    {
+      "key": "NextOne",
+      "value": "Next"
+    },
+    {
+      "key": "TCOnePanelTwo",
+      "value": "To fight the dead, I found weapons: a sword and a bow. For your outing, you can choose one thing that suits you best. But first, figure out how to use it."
+    },
+    {
+      "key": "NextTwo",
+      "value": "Next"
+    },
+    {
+      "key": "BackTwo",
+      "value": "Back"
+    },
+    {
+      "key": "TCOnePanelThree",
+      "value": "The sword deals more damage than a bow, has a three-pronged attack, and with it you can hit several opponents at the same time, unlike a bow, with which you can only hit one in one regular shot."
+    },
+    {
+      "key": "TCOnePanelThreeTwo",
+      "value": "Don't forget to dodge enemy attacks. With a quick somersault, you can easily escape from the enemy crowd. And vice versa, get close to someone quickly."
+    },
+    {
+      "key": "BackThree",
+      "value": "Back"
+    },
+    {
+      "key": "NextThree",
+      "value": "Next"
+    },
+    {
+      "key": "TCOnePanelFour",
+      "value": "Once you're ready, you can exit the safe zone through the gate. As you move further through the crypt, you will be able to acquire new skills and improve your characteristics. I hope you can get out of here, my friend, but be prepared for some serious resistance."
+    },
+    {
+      "key": "BackFour",
+      "value": "Back"
+    },
+    {
+      "key": "CloseFour",
+      "value": "Close"
+    },
+    {
+      "key": "TCTwoPanelOne",
+      "value": "Congratulations my friend, you are making progress since you got here. In this safe zone you can acquire new skills for your weapon type and improve characteristics. From your characteristics, you can increase your health or damage dealt to enemies. Each skill has its own characteristics and can help in different situations. For your further adventure, you can use only two skills, but in the safe zone you can always change them."
+    },
+    {
+      "key": "NextFive",
+      "value": "Next"
+    },
+    {
+      "key": "TCTwoPanelTwo",
+      "value": "Try to ensure that your opponents cannot surround you, otherwise it is guaranteed death. Move actively and keep them at a distance. Let your attacks hit as many enemies as possible simultaneously."
+    },
+    {
+      "key": "TCTwoPanelTwoTwo",
+      "value": "Next you will meet archers. These are very dangerous opponents, while you deal with the bulk of the enemies, they will gradually inflict damage on you. I recommend getting rid of them first and dodging their shots."
+    },
+    {
+      "key": "CloseTwo",
+      "value": "Close"
+    },
+    {
+      "key": "BackFive",
+      "value": "Back"
+    },
+    {
+      "key": "MenuButton",
+      "value": "Menu"
+    },
+    {
+      "key": "LevelName",
+      "value": "LEVEL"
+    },
+    {
+      "key": "LevelComp",
+      "value": "LEVEL PASSED"
+    },
+    {
+      "key": "GoExit",
+      "value": "GO TO THE EXIT"
+    },
+    {
+      "key": "ScreenPoint",
+      "value": "+ SKILL POINT RECEIVED"
+    },
+    {
+      "key": "Languages",
+      "value": "Languages:"
+    },
+    {
+      "key": "SkillsBuyTrigger",
+      "value": "Buy skills"
+    },
+    {
+      "key": "CharBuyTrigger",
+      "value": "Improve characteristics"
+    },
+    {
+      "key": "SkillsBowBuyTrigger",
+      "value": "Buy skills"
+    },
+    {
+      "key": "ReadOne",
+      "value": "Read"
+    },
+    {
+      "key": "ReadTwo",
+      "value": "Read"
+    },
+    {
+      "key": "StartButton",
+      "value": "Start"
+    },
+    {
+      "key": "Titles",
+      "value": "Titles"
+    },
+    {
+      "key": "ExitButton",
+      "value": "Exit"
+    },
+    {
+      "key": "LanguageMenu",
+      "value": "Languages:"
+    },
+    {
+      "key": "BackSix",
+      "value": "Back"
+    },
+    {
+      "key": "Gamedesign",
+      "value": "Game design"
+    },
+    {
+      "key": "TextGD",
+      "value": "Nikita Polosin"
+    },
+    {
+      "key": "Producer",
+      "value": "Producer"
+    },
+    {
+      "key": "TextPr",
+      "value": "Nikita Polosin"
+    },
+    {
+      "key": "Programmers",
+      "value": "Programmers"
+    },
+    {
+      "key": "TextProg",
+      "value": "Nikita Polosin Egor Terentyev"
+    },
+    {
+      "key": "LevelDesign",
+      "value": "Level design"
+    },
+    {
+      "key": "TextLD",
+      "value": "Nikita Polosin"
+    },
+    {
+      "key": "Sounddirector",
+      "value": "Sound Director"
+    },
+    {
+      "key": "TextSD",
+      "value": "Ilya Fedorets"
+    },
+    {
+      "key": "Sound",
+      "value": "Sound"
+    },
+    {
+      "key": "Director",
+      "value": "Script writer"
+    },
+    {
+      "key": "TextDir",
+      "value": "Pavel Melnikov Nikita Polosin"
+    },
+    {
+      "key": "ConceptArt",
+      "value": "Concept art"
+    },
+    {
+      "key": "TextConc",
+      "value": "Marina Kouneva Olga Bychkova"
+    },
+    {
+      "key": "ThreeDArtLevel",
+      "value": "3D artist (levels)"
+    },
+    {
+      "key": "TextThreeDArtL",
+      "value": "Evgeniy Danilov"
+    },
+    {
+      "key": "ThreeDArtModel",
+      "value": "3D artist (weapons and characters)"
+    },
+    {
+      "key": "TextThreeDArtM",
+      "value": "Egor Terentyev danielmclogan enes29378"
+    },
+    {
+      "key": "SVText",
+      "value": "Sound volume:"
+    }
+  ]
+}

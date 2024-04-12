@@ -1,0 +1,13 @@
+<dialogue>
+<node>
+<text>Мужик:
+То что ты пидор, ёпта!</text><endnode>true</endnode>
+</node>
+<node>
+<text>Другой мужик;
+А может ты пидор?</text><endnode>true</endnode>
+</node>
+<node>
+<text></text><endnode>false</endnode>
+</node>
+</dialogue>
